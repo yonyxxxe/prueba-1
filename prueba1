@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 ,KENDRA
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304920.ts
+#EXTINF:-1 ,21
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304921.ts
+#EXTINF:-1 ,22
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304922.ts
+#EXTINF:-1 ,19
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304919.ts
+#EXTINF:-1 ,23
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304923.ts
+#EXTINF:-1 ,18
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304918.ts
+#EXTINF:-1 ,17
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304917.ts
+#EXTINF: 1 ,24
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304924.ts
+#EXTINF:-1 ,25
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304925.ts
+#EXTINF:-1 ,30
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304930.ts
+#EXTINF:-1 ,10
+http://x.v-iptv.com:25443/live/4354237654/2333455556/304910.ts
